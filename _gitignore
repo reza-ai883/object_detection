@@ -1,0 +1,16 @@
+# Training outputs and weights (large)
+runs/
+datasets/
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
